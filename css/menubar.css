@@ -6,6 +6,7 @@
   /* border-bottom: 1px solid #bbb; */
   box-shadow: 0 2px 4px rgba(0,0,0,.2);
   padding: 25px 20px;
+  background: white;
 }
 .menubar img {
   height: 17px;
